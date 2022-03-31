@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    text-align: center;
+    margin: 25%;
+    /* border: 3px solid green; */
+    /* padding: 10px; */
+}
+
+h1 {
+    padding-bottom: 1rem;
+}
+
+li {
+    padding-bottom: .25rem;
+    list-style-type: none;
+}
+
